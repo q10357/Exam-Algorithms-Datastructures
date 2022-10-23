@@ -1,3 +1,6 @@
+Exam ALgorithms and Datastructures
+-------------------------------------------------
+
 (NB: EXPLANATION OF CODE FURTHER DOWN, UNDER -------)
 
 Before I explain my code, I want to address one issue I encountered.
